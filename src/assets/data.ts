@@ -1,0 +1,1 @@
+export type PokemonType = "dark" | "dragon" | "electric" | "fairy" | "fighting" | "fire" | "grass" | "psychic" | "steel" | "water";
